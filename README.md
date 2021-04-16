@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG" width="70%" alt=""/></a></td>
+    <img src="https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG" width="700px" alt=""/></a></td>
   </tr>
 </table>
 
