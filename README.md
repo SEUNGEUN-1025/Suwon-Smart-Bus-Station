@@ -3,4 +3,5 @@
 * 주최 : COMPAS (LH - 한국토지주택공사)  
 * 활동 기간 : 21/02/19 - 21/04/01  
 
-![슬라이드1](https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG)
+![슬라이드1](https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG){: width="50%" height="50%"}
+
