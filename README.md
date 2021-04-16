@@ -1,6 +1,6 @@
 # 수원시 스마트 버스정류장 우선설치위치 선정  
   
-* 주최 : **[COMPAS LH](https://compas.lh.or.kr/)
+* 주최 : **[COMPAS LH](https://compas.lh.or.kr/)**
 * 활동 기간 : 21/02/19 - 21/04/01  
 
 <table>
