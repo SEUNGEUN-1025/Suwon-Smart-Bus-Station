@@ -36,18 +36,8 @@
 ## 분석 결과 ##
 * 이용시간 예측 모델 (Random Forest Regressor) : 모델평균 MAPE 0.06  
 * 대기질지수 예측 모델 (LightGBM) : 모델평균 MAPE 0.01
-* 우선설치 버스정류장 ·  광고 Target층
-<table>
-  <tr>
-    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/115841483-cdfdbb80-a457-11eb-8ad2-68674e701486.PNG" width="1000px" alt=""/></a></td>
-  </tr>
-</table>
-* 우선설치 정류장 분포지역을 크게 세 지역으로 구분함으로써 지역적 특징 도출
-<table>
-  <tr>
-    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/115841440-bf170900-a457-11eb-96de-ab0ba6888ff6.PNG" width="1000px" alt=""/></a></td>
-  </tr>
-</table>
+* 스마트 버스정류장 우선설치 버스정류장 30개와 버스정류장별 광고 Target층 도출
+* 우선설치 정류장 분포지역을 크게 세 지역으로 구분함으로써 지역적 특징 도출  
 
 
 
