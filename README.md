@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG" width="700px" alt=""/></a></td>
+    <td align="left"><img src="https://user-images.githubusercontent.com/54944069/114996339-b2376a00-9ed9-11eb-8026-fb8224884324.PNG" width="1000px" alt=""/></a></td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@
 
 |전체 프로세스
 | :-: |
-| ![국토도시 모델구조](https://user-images.githubusercontent.com/54944069/115835445-3b5a1e00-a451-11eb-98b2-f3d789742466.PNG) |
+|![국토도시 모델구조](https://user-images.githubusercontent.com/54944069/115835638-72c8ca80-a451-11eb-898a-c18b27a90011.PNG)|
 
 
 ## 분석 결과 ##
