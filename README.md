@@ -3,7 +3,7 @@
 * **2021 국토도시 데이터 분석과제 입선작**  
 * 주최 : **[COMPAS LH](https://compas.lh.or.kr/)**
 * 활동 기간 : 21/02/19 - 21/04/16  
-* 자세한 분석결과는 **[Link](https://github.com/hrlee113/Suwon-Smart-Bus-Station/blob/main/Results/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B2%AD%EC%B6%9C%EC%96%B4%EB%9E%8C.pdf)** 를 통해 확인하실 수 있습니다.
+* 자세한 분석내용은 **[Link](https://github.com/hrlee113/Suwon-Smart-Bus-Station/blob/main/Results/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B2%AD%EC%B6%9C%EC%96%B4%EB%9E%8C.pdf)** 를 통해 확인하실 수 있습니다🥰
 
 <table>
   <tr>
