@@ -30,7 +30,7 @@
 #### 2. Clustering  
 > 버스정류장별 고유정보를 이용하여 버스정류장을 세 개의 클러스터로 분류합니다. (K-means Clustering)  
 #### 3. Prediction
-> 클러스터별로 ① 이용시간 (by Random Forest Regressor)과  ② 대기질지수 (by LightGBM)를 예측합니다.   
+> 클러스터별로 ①이용시간(Random Forest Regressor)과  ②대기질지수(LightGBM)를 예측합니다.   
 #### 4. Calculate score  
 > 두 값을 이용해 우선설치 스코어를 생성합니다. 그 후, 이를 기준으로 30개의 우선설치 정류장 예측합니다.  
 #### 5. Predict Target for AD  
