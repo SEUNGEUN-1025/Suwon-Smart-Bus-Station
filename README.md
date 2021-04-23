@@ -25,16 +25,16 @@
 | :-: |
 |![국토도시 모델구조](https://user-images.githubusercontent.com/54944069/115835638-72c8ca80-a451-11eb-898a-c18b27a90011.PNG)|
   
-### 1. Data Preprocessing   
-다양한 위치단위(격자, 위경도) 데이터를 공간정보 분석을 통해 버스정류장별 데이터로 변환합니다.  
-### 2. Clustering  
-버스정류장별 고유정보를 이용하여 버스정류장을 세 개의 클러스터로 분류합니다. (K-means Clustering)  
-### 3. Prediction
-클러스터별로 ① 이용시간 (by Random Forest Regressor)과  ② 대기질지수 (by LightGBM)를 예측합니다.   
-### 4. Calculate score  
-두 값을 이용해 우선설치 스코어를 생성합니다. 그 후, 이를 기준으로 30개의 우선설치 정류장 예측합니다.  
-### 5. Predict Target for AD  
-성연령별 유동인구 데이터를 이용하여 버스정류장별 광고 Target층을 도출합니다. (ex. 1위 정류장 – 20대 여성)
+#### 1. Data Preprocessing   
+> 다양한 위치단위(격자, 위경도) 데이터를 공간정보 분석을 통해 버스정류장별 데이터로 변환합니다.  
+#### 2. Clustering  
+> 버스정류장별 고유정보를 이용하여 버스정류장을 세 개의 클러스터로 분류합니다. (K-means Clustering)  
+#### 3. Prediction
+> 클러스터별로 ① 이용시간 (by Random Forest Regressor)과  ② 대기질지수 (by LightGBM)를 예측합니다.   
+#### 4. Calculate score  
+> 두 값을 이용해 우선설치 스코어를 생성합니다. 그 후, 이를 기준으로 30개의 우선설치 정류장 예측합니다.  
+#### 5. Predict Target for AD  
+> 성연령별 유동인구 데이터를 이용하여 버스정류장별 광고 Target층을 도출합니다. (ex. 1위 정류장 – 20대 여성)
 
 
 ## 분석 결과 ##
