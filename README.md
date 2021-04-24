@@ -45,8 +45,7 @@
 
 ## 🌀 Contributors ##  
 
- | a |<img src="https://user-images.githubusercontent.com/54944069/115951122-ff3ec000-a519-11eb-96e3-bc0def5f5b8a.jpg" width="250" height="250">| <img src="
-https://user-images.githubusercontent.com/54944069/115951410-91939380-a51b-11eb-87d9-f0e90a092216.jpg" width="250" height="250"> | <img src="https://user-images.githubusercontent.com/54944069/115950923-00bbb880-a519-11eb-8229-5b96a32d1f69.jpg" width="250" height="250">
+ | a |<img src="https://user-images.githubusercontent.com/54944069/115951122-ff3ec000-a519-11eb-96e3-bc0def5f5b8a.jpg" width="250" height="250">| <img src="https://user-images.githubusercontent.com/54944069/115951453-be47ab00-a51b-11eb-9f7f-4514abbebe21.jpg" width="250" height="250"> | <img src="https://user-images.githubusercontent.com/54944069/115950923-00bbb880-a519-11eb-8229-5b96a32d1f69.jpg" width="250" height="250"> |
  | :-: | :-: | :-: | :-: |
  | 권드림 | [SEUNGEUN-1025](https://github.com/SEUNGEUN-1025)| 유채연 | [hrlee113](https://github.com/hrlee113) |
 
